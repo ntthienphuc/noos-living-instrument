@@ -1,0 +1,8 @@
+cosmos/
+gaia/
+synapse/
+vanthu/
+.vercel/
+test-results/
+.DS_Store
+Thumbs.db
